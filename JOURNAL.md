@@ -22,11 +22,16 @@ I'm not super sure which one to pick.
 
   
 
-## 10/22/2025 - CAD of Hardware  
+## 10/22/2025 8 AM - CAD of Hardware  
 
 ![Screenshot 2025-10-22 at 8.28.55 AM.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NDM2MywicHVyIjoiYmxvYl9pZCJ9fQ==--9dbf03be4a2217db9b19800fa71deed915ccd6c4/Screenshot%202025-10-22%20at%208.28.55%E2%80%AFAM.png)
 ![Screenshot 2025-10-22 at 8.30.50 AM.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NDM2NCwicHVyIjoiYmxvYl9pZCJ9fQ==--cf774a7e4a2252523e5110229b50d758acc0cf69/Screenshot%202025-10-22%20at%208.30.50%E2%80%AFAM.png)
 ![Screenshot 2025-10-22 at 8.30.18 AM.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NDM2NSwicHVyIjoiYmxvYl9pZCJ9fQ==--57026a5b6343d713cc8f85b19752466c4130605a/Screenshot%202025-10-22%20at%208.30.18%E2%80%AFAM.png)
 I am currently completing the CAD for the hardware of the pellet extruder. I am recreating the hardware parts in CAD, so then I can design my extruder around those parts. This process is a bit challenging because I need to look at data sheets and technical drawings, and then find the best way to recreate the model in CAD. I think it looks decent!
   
+
+## 10/22/2025 11 AM - I made a Variable Depth Plastic Screw!  
+
+![Screenshot 2025-10-22 at 11.19.46 AM.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NDQzNiwicHVyIjoiYmxvYl9pZCJ9fQ==--20fc18adf9506a64fec8b52395c26969e9389be5/Screenshot%202025-10-22%20at%2011.19.46%E2%80%AFAM.png)
+I wanted to create a 3D model of a variable depth plastic screw for my Pellet Extruder. Prior to this, I was simply using an 8mm cylinder as a "placeholder" for the actual part. However, I wanted to expand my CAD skills and make the real thing. So, after a lot of brainstorming on how to make the coil "variable-depth" (meaning the inner diameter of the screw changes, goes from small to large), I used a cone shaped cut (revolution) and used Fusion's "coil" functionality. In the end, I got a model pretty similar to the manufacturer's model!  
 
