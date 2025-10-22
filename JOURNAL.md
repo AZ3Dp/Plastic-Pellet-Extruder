@@ -6,10 +6,6 @@
   ==================================================================
 -->
 
-This is my journal of the design and building process of **Plastic Pellet Extruder**.  
-You can view this journal in more detail on **Hack Club Blueprint** [here](https://blueprint.hackclub.com/projects/169).
-
-
 ## 10/19/2025 - Brainstorm and Product Research  
 
 ![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MzQ3NywicHVyIjoiYmxvYl9pZCJ9fQ==--8a7cb5f44f19ad4b6d2ab7ca4d1f9dedc2bb01a2/image.png)
@@ -24,5 +20,13 @@ I've narrowed it down to two options (well, they were the _only_ two options). B
 I'm not super sure which one to pick.
 
 
+  
+
+## 10/22/2025 - CAD of Hardware  
+
+![Screenshot 2025-10-22 at 8.28.55 AM.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NDM2MywicHVyIjoiYmxvYl9pZCJ9fQ==--9dbf03be4a2217db9b19800fa71deed915ccd6c4/Screenshot%202025-10-22%20at%208.28.55%E2%80%AFAM.png)
+![Screenshot 2025-10-22 at 8.30.50 AM.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NDM2NCwicHVyIjoiYmxvYl9pZCJ9fQ==--cf774a7e4a2252523e5110229b50d758acc0cf69/Screenshot%202025-10-22%20at%208.30.50%E2%80%AFAM.png)
+![Screenshot 2025-10-22 at 8.30.18 AM.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NDM2NSwicHVyIjoiYmxvYl9pZCJ9fQ==--57026a5b6343d713cc8f85b19752466c4130605a/Screenshot%202025-10-22%20at%208.30.18%E2%80%AFAM.png)
+I am currently completing the CAD for the hardware of the pellet extruder. I am recreating the hardware parts in CAD, so then I can design my extruder around those parts. This process is a bit challenging because I need to look at data sheets and technical drawings, and then find the best way to recreate the model in CAD. I think it looks decent!
   
 
