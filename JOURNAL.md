@@ -44,5 +44,6 @@ In this work session, I added more components to the CAD model, including:
 - 5015 fans
 - 4010 fans
 Note: the fans, I decided, to use generic Prusa i3 Mk3s fan hardware, since it is easily accessible
-- started modeling structural 3D printed components  
+- started modeling structural 3D printed components
+- added optional heatsink for nema 17 motor  
 
