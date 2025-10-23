@@ -35,3 +35,14 @@ I am currently completing the CAD for the hardware of the pellet extruder. I am 
 ![Screenshot 2025-10-22 at 11.19.46 AM.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NDQzNiwicHVyIjoiYmxvYl9pZCJ9fQ==--20fc18adf9506a64fec8b52395c26969e9389be5/Screenshot%202025-10-22%20at%2011.19.46%E2%80%AFAM.png)
 I wanted to create a 3D model of a variable depth plastic screw for my Pellet Extruder. Prior to this, I was simply using an 8mm cylinder as a "placeholder" for the actual part. However, I wanted to expand my CAD skills and make the real thing. So, after a lot of brainstorming on how to make the coil "variable-depth" (meaning the inner diameter of the screw changes, goes from small to large), I used a cone shaped cut (revolution) and used Fusion's "coil" functionality. In the end, I got a model pretty similar to the manufacturer's model!  
 
+## 10/23/2025 - More CAD and Components  
+
+![Screenshot 2025-10-23 at 9.41.52 AM.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NDc1NywicHVyIjoiYmxvYl9pZCJ9fQ==--69311817e9377ff2c0929fc91d63826e7c534072/Screenshot%202025-10-23%20at%209.41.52%E2%80%AFAM.png)
+In this work session, I added more components to the CAD model, including:
+
+- brass standoffs
+- 5015 fans
+- 4010 fans
+Note: the fans, I decided, to use generic Prusa i3 Mk3s fan hardware, since it is easily accessible
+- started modeling structural 3D printed components  
+
