@@ -47,3 +47,8 @@ Note: the fans, I decided, to use generic Prusa i3 Mk3s fan hardware, since it i
 - started modeling structural 3D printed components
 - added optional heatsink for nema 17 motor  
 
+## 11/3/2025 - Modified Geometry and Added Plastic pellet intake  
+
+![Screenshot 2025-11-03 at 12.59.47 PM](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6ODEyMywicHVyIjoiYmxvYl9pZCJ9fQ==--f239b03bd2a91e3c671e7bbe38c04a9f0de013a3/Screenshot%202025-11-03%20at%2012.59.47%E2%80%AFPM.png)
+Today, I spent some time brainstorming manufacturing - it's really easy to design something in CAD and not realizing that the geometry would be impossible to assemble in real life. Made some cuts and splits. I also created the inlet for the plastic pellets to enter. I'm thinking of using a cpap tube. Don't want to put too much weight on the extruder.  
+
