@@ -52,8 +52,14 @@ Note: the fans, I decided, to use generic Prusa i3 Mk3s fan hardware, since it i
 ![Screenshot 2025-11-03 at 12.59.47 PM](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6ODEyMywicHVyIjoiYmxvYl9pZCJ9fQ==--f239b03bd2a91e3c671e7bbe38c04a9f0de013a3/Screenshot%202025-11-03%20at%2012.59.47%E2%80%AFPM.png)
 Today, I spent some time brainstorming manufacturing - it's really easy to design something in CAD and not realizing that the geometry would be impossible to assemble in real life. Made some cuts and splits. I also created the inlet for the plastic pellets to enter. I'm thinking of using a cpap tube. Don't want to put too much weight on the extruder.  
 
-## 11/4/2025 - Created Part Fan Duct and Repositioned Fan  
+## 11/4/2025 12 PM - Created Part Fan Duct and Repositioned Fan  
 
 ![Screenshot 2025-11-04 at 12.51.47 PM](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6ODM1MiwicHVyIjoiYmxvYl9pZCJ9fQ==--63be4637fbaf49bfe288ec66438bdd89b305029a/Screenshot%202025-11-04%20at%2012.51.47%E2%80%AFPM.png)
 Today, I repositioned the fan, because after a ton of brainstorming, I realized having the fan stick out at a 45 degree angle would be hard to accomplish & made the extruder extremely bulky (this would mainly affect CoreXY printers). I also created a crude model of the fan duct. This was quite hard to do, and I watched a couple Youtube videos on lofting and sweeping, etc. I ended up with a rather simple duct, which will hopefully get the job done.  
+
+## 11/4/2025 3 PM - Fluid Dynamics Analysis (CFD) on new fan duct!  
+
+![Screenshot 2025-11-04 at 3.22.24 PM](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6ODM4MiwicHVyIjoiYmxvYl9pZCJ9fQ==--120a23545824970cd9ab7024ef399f9d0a4b7a0c/Screenshot%202025-11-04%20at%203.22.24%E2%80%AFPM.png)
+So I ended up going down a rabbit hole on fluid dynamics and simulations. Turns out, Fusion does not have CFD capabilities, so I ended up using SimScale. Took me a while to learn the software and successfully create a simulation. Looking at the simulation, the duct is not focusing the air and has too much room for the air to slow down, rather than directly hit the nozzle.
+  
 
