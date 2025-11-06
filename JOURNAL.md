@@ -63,3 +63,9 @@ Today, I repositioned the fan, because after a ton of brainstorming, I realized 
 So I ended up going down a rabbit hole on fluid dynamics and simulations. Turns out, Fusion does not have CFD capabilities, so I ended up using SimScale. Took me a while to learn the software and successfully create a simulation. Looking at the simulation, the duct is not focusing the air and has too much room for the air to slow down, rather than directly hit the nozzle.
   
 
+## 11/6/2025 - Second Fan Duct Iteration  
+
+![Screenshot 2025-11-06 at 2.00.49 PM](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6ODk0NywicHVyIjoiYmxvYl9pZCJ9fQ==--2f36ab4a2969ee3ff8c96b9b679ba0f51b99f174/Screenshot%202025-11-06%20at%202.00.49%E2%80%AFPM.png)
+Using the analysis from the Simflow simulation, I worked to improve the fan duct's part cooling geometry. So after some research (and facepalms), the part cooling duct should cool the part, not the nozzle. So, I lowered the duct and thus the air is not pointing more towards the part. In addition, I decreased the thickness of the fan duct. This should improve the airflow pressure onto the part. I also used a different strategy to model the part: I used a slot (sketch profile) and a sweep command to create the geometry. I will run a simulation for this part as well.
+Side note: Fusion had updated and now there is dark mode!!!  
+
